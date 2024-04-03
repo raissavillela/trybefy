@@ -31,4 +31,4 @@ INSERT INTO users (full_name, email, birthday, active, plan_id) VALUES
     ('Simone', 'simone@trybefy.com', '1988-12-01', true, 1),
     ('Rogério', 'rogerio@trybefy.com', '1979-12-01', true, 3),
     ('Júlio', 'julio@trybefy.com', '1994-06-20', false, 2),
-    ('Melissa', 'melissa@trybefy.com', '1997-04-11', true, 2);
+    ('Melissa', 'melissa@trybefy.com', '1997-04-11', 1, 2);
